@@ -1,8 +1,8 @@
 # EXPERIMENT-01-INTERFACTING-DIGITAL-OUTPUT-WITH-EDGE-DEVICE---(RASPBERRYPI-PI4)
-### NAME 
-### DEPARTMENT 
-### ROLL NO 
-### DATE OF EXPERIMENT 
+### NAME : SOUNDARYA J
+### DEPARTMENT :IT
+### REG NO : 212223220108
+### DATE OF EXPERIMENT :04.02.2026
 
 ### AIM
 To interface a digital output device (LED) with the Raspberry Pi 4 and control it using Python.
@@ -51,8 +51,6 @@ Connect the IR sensor Vcc to any +5V.
 Connect the IR sensor GND to any GND.
 Connect the IR sensor OUT to any one GPIO. 
 
-
-### OUPUT  
 ## Experiment 1A – LED Blinking using Raspberry Pi 4
 
 ## PROGRAM(python):
