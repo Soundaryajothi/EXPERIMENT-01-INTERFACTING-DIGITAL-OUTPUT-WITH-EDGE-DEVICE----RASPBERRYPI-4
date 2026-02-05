@@ -1,8 +1,8 @@
 # EXPERIMENT-01-INTERFACTING-DIGITAL-OUTPUT-WITH-EDGE-DEVICE---(RASPBERRYPI-PI4)
 ### NAME : SOUNDARYA J
-### DEPARTMENT :IT
+### DEPARTMENT : IT
 ### REG NO : 212223220108
-### DATE OF EXPERIMENT :04.02.2026
+### DATE OF EXPERIMENT : 04.02.2026
 
 ### AIM
 To interface a digital output device (LED) with the Raspberry Pi 4 and control it using Python.
